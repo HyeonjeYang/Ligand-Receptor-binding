@@ -1,5 +1,5 @@
 # Ligand-Receptor-binding
-Hill equation, Klotz-Adair equation.<br>
+Hill equation, Adair-Klotz equation.<br>
 You can use it for data fitting.<br>
 Hill works pretty well as well as Klotz-Adair.<br>
 <br>
